@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: I am a current LBS student
+        title: LBS
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
