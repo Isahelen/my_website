@@ -1,0 +1,17 @@
+---
+title: "Self-Introduction"
+date: '2021-10-19'
+description: 
+draft: no
+image: LBS.jpg
+keywords: ''
+slug: LBS
+categories:
+- ''
+- ''
+---
+
+
+Hello, my name is Isahelen. I am now reading for Masters in Financial Analysis at London Business School.
+I love exploring new fields and learning new things. I have lived in several countries in three continents in the world. I grew up in China, went to the US for undergraduate study at a liberal arts college, double majored in Mathematics and Economics. During my junior year, I studied abroad for one year at London School of Economics. During my undergraduate time, I had explored many fields by going to summer schools, studying art history and learning languages that are outside of my majors’ scope, as well as taking internships. Eventually, I found my passion in finance. At my alma mater Mount Holyoke College, I was a leader at Chinese Dance Team, and I worked as a Teaching Assistant for Mathematics Department for one year. Before coming to LBS, I had one year gap in taking an internship at a private equity firm. I am currently aiming for roles in banking in London. During my spare time, I love traveling, vising museums, scuba diving and volunteering. 
+

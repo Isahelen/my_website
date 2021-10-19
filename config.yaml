@@ -82,8 +82,8 @@ params:
     showcase:
       - image: lbs.jpg
         subtitle: I am a current LBS student
-        title: LBS
-        url: blogs/Introduction
+        title: Self-Introduction
+        url: blogs/LBS
       - image: spices.jpg
         subtitle: Risk Return
         title: Risk Return of DJIA Industrial Average
@@ -92,10 +92,10 @@ params:
         subtitle: His name is Prince! He is very cute, isn't he? :)
         title: My Pet
         url: blogs/mypet
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+      - image: barcelona.jpg
+        subtitle: Bienvenidos a Barcelona!
+        title: Barcelona AirBnb Case Study
+        url: blogs/barcelona
     #  - image: pic05.jpg
     #    subtitle: Ipsum Dolor Sit Amet
     #    title: Consequat

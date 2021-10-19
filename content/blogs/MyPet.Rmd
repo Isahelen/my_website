@@ -1,28 +1,15 @@
 ---
 title: "My Pet"
 date: '2021-10-19'
-description: “Hello, my name is Prince, a cute poodle. I am 6 years old now. Isahelen is my lovely sis. Usually, I go out twice a day to have fun and hang out with my family (ususally it's when they walk me xixi). ”
+description: 
 draft: no
 image: MyPet.jpg
 keywords: ''
-slug: blogs/mypet
+slug: mypet
 categories:
 - ''
 - ''
 ---
 
 
-{r, setup, include=FALSE}
-knitr::opts_chunk$set(
-  message = FALSE, 
-  warning = FALSE,
-  tidy=FALSE,     # display code as typed
-  size="small")   # slightly smaller font for code
-options(digits = 3)
-
-# default figure size
-knitr::opts_chunk$set(
-  fig.width=6.75, 
-  fig.height=6.75,
-  fig.align = "center"
-)
+“My name is Prince, a cute poodle. I am 6 years old now. Isahelen is my lovely sis. Usually, I go out twice everyday for fun and spend some time with my family (when they walk me). Among all of my hobbies, eating snacks is my favorite. :P”
