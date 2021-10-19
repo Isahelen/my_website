@@ -14,9 +14,9 @@ params:
   blog: {}
   contact:
     address:
-      - city: London, NW1 5PW
+      - city: London, NW1 4SA
         country: UK
-        street: Marylebone Road
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -85,8 +85,8 @@ params:
         subtitle: I am a current LBS student
         title: LBS
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
+      - image: spices.jpg
+        subtitle: Risk Return
         title: Risk Return of DJIA Industrial Average
         url: blogs/risk_return
       - image: pic03.jpg
