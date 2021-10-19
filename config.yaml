@@ -12,7 +12,6 @@ params:
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Isahelen
   blog: {}
-  contact:
     address:
       - city: London, NW1 4SA
         country: UK
