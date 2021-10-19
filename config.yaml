@@ -85,7 +85,7 @@ params:
         subtitle: I am a current LBS student
         title: Self-Introduction
         url: blogs/LBS
-      - image: spices.jpg
+      - image: market.jpg
         subtitle: Risk Return
         title: Risk Return of DJIA Industrial Average
         url: blogs/risk_return
