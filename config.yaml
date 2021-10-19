@@ -89,7 +89,7 @@ params:
         subtitle: Risk Return
         title: Risk Return of DJIA Industrial Average
         url: blogs/risk_return
-      - image: pic03.jpg #change to pic of my pet
+      - image: MyPet.jpg 
         subtitle: His name is Prince! :)
         title: My Pet
         url: blogs/mypet
