@@ -12,6 +12,7 @@ params:
       AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Isahelen
   blog: {}
+  contact:
     address:
       - city: London, NW1 4SA
         country: UK
@@ -24,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (777) 999-0000 x1234
         title: Phone
   custom_css: []
   custom_js: []
@@ -34,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Isahelen C.
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -83,35 +84,36 @@ params:
       - image: lbs.jpg
         subtitle: I am a current LBS student
         title: LBS
-        url: blogs/aliquam
+        url: blogs/Introduction
       - image: spices.jpg
         subtitle: Risk Return
         title: Risk Return of DJIA Industrial Average
         url: blogs/risk_return
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: pic03.jpg #change to pic of my pet
+        subtitle: His name is Prince! :)
+        title: My Pet
+        url: blogs/mypet
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+    #  - image: pic05.jpg
+    #    subtitle: Ipsum Dolor Sit Amet
+    #    title: Consequat
+    #    url: blogs/ipsum
+    #  - image: pic06.jpg
+    #    subtitle: Feugiat Amet Tempus
+    #    title: Etiam
+    #    url: blogs/ipsum
+
+ # two:
+  #  buttonText: Get Started
+  #  enable: yes
+  #  subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+  #    \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+  #    condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+  #    pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+  #    Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+  #    amet pharetra et feugiat tempus."
+  #  title: Massa libero
+  #  url: blogs
