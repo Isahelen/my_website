@@ -16,6 +16,7 @@ title: Risk-Return of DJIA stocks
 
 
 ```{r, setup, echo=FALSE}
+knitr::include_graphics("/img/spices.jpg",error =FALSE)
 knitr::opts_chunk$set(
   message = FALSE, 
   warning = FALSE, 
