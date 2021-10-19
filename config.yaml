@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      I am a girl who loves traveling, art history, dancing and exploring for new things. I have lived in three continents in the world. Currently, I'm on my way of becoming a great future banker. ^ ^ One fun fact about me is that I am a certificated scuba diver! Yay~.
     title: Hi, my name is Isahelen
   blog: {}
   contact:
@@ -90,7 +89,7 @@ params:
         title: Risk Return of DJIA Industrial Average
         url: blogs/risk_return
       - image: MyPet.jpg 
-        subtitle: His name is Prince! :)
+        subtitle: His name is Prince! He is very cute, isn't he? :)
         title: My Pet
         url: blogs/mypet
       - image: pic04.jpg
