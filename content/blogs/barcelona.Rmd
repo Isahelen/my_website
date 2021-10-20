@@ -497,7 +497,7 @@ We can see that none of the variable is unified, thus they all have the potentia
 
 ## Map of AirBnBs in Barcelona by Price
 
-```{r, out.width = '80%'}
+```{r,out.width='80%'}
 
 #we set the color for price to red and create the palette
 price_color <- colorNumeric(palette = "Reds",
@@ -521,7 +521,7 @@ leaflet(data = filter(listings, minimum_nights <= 4)) %>%
 
 There is a direct correlation between property prices and proximity to the city center. There appear to be clusters of properties with distinctively higher prices, which could be explained by proximity to touristic locations or transportation connections
 
-```{r, out.width = '80%', Mapping based on location clusters}
+```{r,out.width='80%'}
 
 location_clusters <-leaflet(data = filter(listings, minimum_nights <= 4)) %>%
   
