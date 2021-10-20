@@ -497,7 +497,7 @@ We can see that none of the variable is unified, thus they all have the potentia
 
 ## Map of AirBnBs in Barcelona by Price
 
-```{r, out.width = '80%', Mapping based on price}
+```{r, out.width = '80%'}
 
 #we set the color for price to red and create the palette
 price_color <- colorNumeric(palette = "Reds",
