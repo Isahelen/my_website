@@ -63,32 +63,32 @@ params:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
+    #button2:
+     # - name: Log In
         url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      #- name: Generic Blog
+        #url: blogs/ipsum
+      #- name: Elements
+       # url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Personal Website
+    title: Isahelen 
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
+      - image: LBS.jpg
         subtitle: I am a current LBS student
         title: Self-Introduction
         url: blogs/LBS
       - image: market.jpg
-        subtitle: Risk Return
-        title: Risk Return of DJIA Industrial Average
-        url: blogs/risk_return
+        subtitle: Countries' GDP
+        title: GDP
+        url: blogs/GDP
       - image: MyPet.jpg 
         subtitle: His name is Prince! He is very cute, isn't he? :)
         title: My Pet
