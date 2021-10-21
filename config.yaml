@@ -86,9 +86,9 @@ params:
         title: Self-Introduction
         url: blogs/LBS
       - image: market.jpg
-        subtitle: Countries' GDP
-        title: GDP
-        url: blogs/GDP
+        subtitle: Yield Curve
+        title: Yield Curve
+        url: blogs/Yield_curve
       - image: MyPet.jpg 
         subtitle: His name is Prince! He is very cute, isn't he? :)
         title: My Pet
